@@ -1,0 +1,34 @@
+_repo: Somebody-s-Luggage_1414
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: '"My family-name is Blue-Beard! I''m going to open Somebody''s Luggage
+  all alone in the Secret Chamber -- and not a female eye catches sight of the contents!"
+  Such a mystery! On the first day of the year 1857, a man left his inn and requested
+  his luggage be ready when he called for it -- then never called. Nor paid his small
+  bill.  Christopher, a Waiter (one of a large family of Waiters, dignified and dedicated
+  in their trade) is made the offer years later -- won''t he pay the small bill? And
+  have the mystery all to himself?  In this delightful tale from Dickens, Christopher
+  discovers more than just ordinary travel-goods, when he opens those long-locked
+  valises!'
+gutenberg_issued: '1998-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Somebody's Luggage
+url: http://www.gutenberg.org/ebooks/1414
